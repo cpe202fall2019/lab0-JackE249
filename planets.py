@@ -5,7 +5,7 @@ def weight_on_planets():
     # set the different weights
 
     print("On Mars you would weigh", weight_on_mars, "pounds.\nOn Jupiter you would weigh", weight_on_jupiter,
-          "pounds. ")
+          "pounds.")
 
 
 
